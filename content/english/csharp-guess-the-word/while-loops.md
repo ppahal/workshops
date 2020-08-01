@@ -52,10 +52,10 @@ while (counter > 0)
 }
 ```
 
-{{% notice tip %}}
-
 ## Working Together
+
+{{% panel theme="instructions" header="Instructions" %}}
 
 Take your code from the previous activity. Let's expand the code so that instead of the program finishing after the user inputs once, allow the user to answer the question 10 times before exiting. Be careful about infinite loops!
 
-{{% /notice %}}
+{{% /panel %}}

@@ -3,11 +3,8 @@ title: "Music Basics"
 description: "basics of music"
 date: 2019-07-23T11:45:38-07:00
 draft: false
-prereq: "None"
-difficulty: "Beginner"
 weight: 2
 ---
-<iframe width="100%" height="600px" src="https://www.youtube.com/embed/g0u1CkbpUWQ?start=134" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Basics first. A few things about music.
 ![Image of music notes](img/music-notes.jpg)
@@ -20,3 +17,9 @@ weight: 2
 -   **Rhythm** is essentially repeated patterns of long or short, stressed or unstressed sounds or silences which fit into the main beat.
 -   **Duration** is the length of notes or sounds or silences which facilitate the rhythm.
 -   **Tempo** is the speed at which a piece of music is played.
+
+### Video Walkthrough
+
+<iframe width="100%" height="600px" src="https://www.youtube.com/embed/g0u1CkbpUWQ?start=134" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Basics first. A few things about music.
+[comment]: <> (Can't load image: music-notes: img/music-notes.jpg)

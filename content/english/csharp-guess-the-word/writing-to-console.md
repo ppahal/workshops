@@ -9,9 +9,9 @@ weight: 2
 
 `Console.WriteLine` means to tell the computer to print the sentence enclosed within the parentheses `()` out onto the console.
 
-{{% notice tip %}}
-
 ## Working Together
+
+{{% panel theme="instructions" header="Instructions" %}}
 
 1.  In the repl.it window below, press **run**. You see that `Hello World` is printed out to the screen on the right.
 2.  Without removing the quotation marks, try changing `"Hello World"` to another sentence. Press **run** to see if anything changes.
@@ -19,8 +19,7 @@ weight: 2
 4.  Press **run** to see if two sentences are printed out. If you see any red text, please ask for help.
 
 <iframe height="600px" width="100%" src="https://repl.it/@nuevofoundation/NF-CSharp-WritingToConsole?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
-{{% /notice %}}
+{{% /panel %}}
 
 We will use printing heavily in the later lessons, so make sure you understand this before continuing!
 

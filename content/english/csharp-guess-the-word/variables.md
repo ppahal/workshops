@@ -69,9 +69,9 @@ bool happy = true;
 
 Note that `var`, `string`, `int`, or `bool` are special keywords in C#, so you cannot create variables with those names.
 
-{{% notice tip %}}
-
 ## Working Together
+
+{{% panel theme="instructions" header="Instructions" %}}
 
 Let's create two new variables:
 
@@ -93,4 +93,4 @@ ComputerComputerComputer
 
 <iframe height="600px" width="100%" src="https://repl.it/@nuevofoundation/NF-CSharp-blank?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-{{% /notice %}}
+{{% /panel %}}

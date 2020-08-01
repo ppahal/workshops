@@ -24,9 +24,9 @@ Developers often need to collaborate with other developers. Comments are an easy
 
 To remove a comment (or uncomment a line), simply delete the `//` for a single-line comment, or the `/*` and the `*/` characters for the multi-line comment.
 
-{{% notice tip %}}
+## Working Together 
 
-## Working Together
+{{% panel theme="instructions" header="Instructions" %}}
 
 1. Place `//` in front of `Console.WriteLine("Hello World");`. After pressing **run**, check to make sure that `Hello World` is not printed to the console.
 2. Delete the `//` and instead, surround `Console.WriteLine("Hello World");` with `/*` and `*/`. Check that `Hello World` is still not printed to the console after pressing **run**.
@@ -36,4 +36,4 @@ To remove a comment (or uncomment a line), simply delete the `//` for a single-l
 
 Throughout today's activity you will see various multi-line comments and `// TODO` comments. These comments will guide us towards completing the Guess the Word game, so be sure you understand how to comment and uncomment code.
 
-{{% /notice %}}
+{{% /panel %}}
