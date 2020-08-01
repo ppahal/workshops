@@ -7,7 +7,7 @@ prereq: "Python Basics - Writing to Console (Print), Reading from Console, Strin
 download: ""
 draft: false
 icon: "fab fa-python"
-weight: 11
+weight: 9
 ---
 
 # Part 1 – Welcome!

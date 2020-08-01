@@ -6,7 +6,7 @@ prereq: "Ninguno"
 difficulty: "Principiante"
 download: ""
 draft: false
-weight: 1
+weight: 2
 translationKey: "adafruit-main"
 ---
 

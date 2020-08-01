@@ -5,7 +5,7 @@ date: 2020-02-10T13:24:17-07:00
 difficulty: "Beginner"
 draft: false
 icon: "fab fa-python"
-weight: 15
+weight: 12
 ---
 
 # Introduction

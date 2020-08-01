@@ -7,7 +7,7 @@ difficulty: "Intermediate"
 image: ""
 draft: false
 icon: "fab fa-python"
-weight: 17
+weight: 8
 ---
 
 # Introduction

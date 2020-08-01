@@ -6,7 +6,7 @@ prereq: "none"
 difficulty: "Beginner"
 icon: "fab fa-joplin"
 draft: false
-weight: 10
+weight: 5
 ---
 
 # JavaScript basics

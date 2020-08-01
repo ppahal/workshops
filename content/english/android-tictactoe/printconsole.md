@@ -1,7 +1,7 @@
 ---
 title: "Printing to Console"
 date: 2020-07-27T14:17:07.42-07:00
-draft: true
+draft: false
 weight: 4
 ---
 

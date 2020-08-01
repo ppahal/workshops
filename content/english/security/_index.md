@@ -5,9 +5,9 @@ date: 2020-02-217T11:45:38-07:00
 prereq: "None"
 difficulty: "Beginner"
 download: ""
-draft: true
-icon: "fas fa-microchip"
-weight: 1
+draft: false
+icon: "fas fa-question"
+weight: 15
 translationKey: "security-main"
 ---
 

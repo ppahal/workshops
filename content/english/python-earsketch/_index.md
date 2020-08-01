@@ -7,7 +7,7 @@ difficulty: "Intermediate"
 download: ""
 draft: false
 icon: "fab fa-python"
-weight: 12
+weight: 11
 ---
 
 ### Let's make some music!

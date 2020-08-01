@@ -7,7 +7,7 @@ difficulty: "Beginner"
 image: ""
 draft: false
 icon: "fab fa-python"
-weight: 13
+weight: 14
 translationKey: "python-turtle-home"
 ---
 
