@@ -35,4 +35,7 @@ KEY
 Now, let's try to change the permissions of our files. Type in ‘ls -l’. Look at the results. We want anyone outside of our group and
 aside from ourselves to have no permissions for _____ file. How do we do that?
 
+<details>
+  <summary> TESTER </summary>
+  Let's see if this works!
 
